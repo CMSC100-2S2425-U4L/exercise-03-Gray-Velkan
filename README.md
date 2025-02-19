@@ -1,4 +1,4 @@
-# Week 2: JAVASCRIPT Basics 
+# Week 3: JAVASCRIPT Basics 
 
 **Name:** Gray Velkan P. Gonzales <br/>
 **Degree Program:** BS Computer Science <br/>
